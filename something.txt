@@ -1,1 +1,2 @@
 Hello, I am an octocat.
+This is a Git usage practice.
